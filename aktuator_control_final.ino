@@ -10,8 +10,8 @@
 // WIFI
 // =================================================
 
-const char* ssid = "Zidan Zaida";
-const char* password = "PerkedelJagung1122";
+const char* ssid = "xxxxxxxx";
+const char* password = "xxxxxxxx";
 
 // =================================================
 // FIREBASE

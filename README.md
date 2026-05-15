@@ -1,4 +1,6 @@
-<img width="656" height="264" alt="image" src="https://github.com/user-attachments/assets/3802819b-4015-4413-903d-c7d4980201d5" /># pa-praktikum-iot-unmul-B6
+# pa-praktikum-iot-unmul-B6
+<img width="11384" height="11384" alt="smartcoop-01" src="https://github.com/user-attachments/assets/13d5d940-0aa6-4804-b53a-cc4530711906" />
+
 Project Akhir Praktikum IoT - Smart Coop
 # 🌍 Project Akhir Praktikum IoT - UNMUL 2026
 

@@ -14,7 +14,7 @@ Repositori ini berisi *source code* dan dokumentasi untuk pemenuhan Tugas Projec
 | :--- | :--- | :--- |
 | Achmad Zidan Al Baihaqi | 2309106084 | Ketua |
 | Rifqi Ramadhan | 2309106007 | Anggota |
-| Irvan Nurdiansyah | 2309106068 | Anggota |
+| Irvan Nurdiansyah | 2309106070| Anggota |
 
 ---
 

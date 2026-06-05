@@ -73,7 +73,7 @@ BAWAH : ESP32 S3
 | Komponen | Pin Komponen | Board Target | Pin Board |
 | :--- | :--- | :--- | :--- |
 | Sensor DHT11 | Data Out | ESP32 DevKit V1 | `4` |
-| Sensor MQ-135 | Analog Out | ESP32 S3 | `34` |
+| Sensor MQ-135 | Analog Out | ESP32 DevKit V1 | `34` |
 | Load Cell (HX711) | DT / SCK | ESP32 S3 | `15 / 16` |
 | Motor Driver L298N | IN1 / IN2 / IN3 / IN4 | ESP32 S3 | `17 / 18 / 7 / 8 ` |
 | Modul I2C (LCD) | SDA / SCL | ESP32 S3 | `21 / 22` |
